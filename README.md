@@ -59,7 +59,7 @@ calculations or a more advanced calculator for scientific purposes, Calculator o
 
 ## Documentation
 
-This game was built based on the Pygame documentation
+This game was built based on the customtkinter documentation
 
 <br />
 
