@@ -23,7 +23,7 @@
 
 ## Overview
 
-Calculator is a versatile desktop calculator application developed using the CustomTkinter library in Python.
+Calculator is a versatile desktop application developed in Python.
 
 The purpose of this project is to provide users with a feature-rich calculator that supports basic arithmetic
 operations, scientific calculations, and a user-friendly interface. Whether you need a simple tool for day-to-day
