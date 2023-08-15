@@ -5,7 +5,7 @@
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 --- 
-
+![Thumbnail.png](demo%2FThumbnail.png)
 ## Table of Contents
 
 * [Overview](#overview)
@@ -31,9 +31,9 @@ calculations or a more advanced calculator for scientific purposes, Calculator o
 
 ## Demo
 
-![demo-blog.gif](apps/static/assets/demo/demo-blog.gif)
+![Calculator Demo.gif](demo%2FCalculator%20Demo.gif)
 
-- **Download the One file .exe file from the dist or download folder**
+- **Download the One file .exe file from the dist folder**
 - **You don't need to install anything, just download, click and start playing.**
 
 <br />
@@ -54,8 +54,6 @@ calculations or a more advanced calculator for scientific purposes, Calculator o
 4. ✅ `Decimal and Integer Modes`: Provide options for users to toggle between decimal and integer modes, accommodating
    various calculation preferences.
 
-5. ✅ `Responsive Design`: Ensure that the calculator's layout and functionality work smoothly on different screen sizes
-   and orientations.
 
 <br />
 
@@ -104,9 +102,13 @@ $ pyinstaller main.spec
 
 This project is licensed under the MIT license. See also the attached LICENSE file.
 
+<br />
+
 ## Reporting Issues
 
 GitHub Issues is the official bug tracker for this project.
+
+<br />
 
 ## Technical Support or Questions
 
@@ -115,6 +117,8 @@ If you have questions contact me okpeamos.ao@gmail.com instead of opening an iss
 Make sure that you are using the latest version of the project. Check the CHANGELOG
 Provide reproducible steps for the issue will shorten the time it takes for it to be fixed.
 
+<br />
+
 ## For Open Source
 
 "Calculator" offers a fantastic opportunity to create a versatile and user-friendly desktop calculator application using
@@ -122,6 +126,8 @@ the CustomTkinter library in Python. By working on this project, you'll enhance 
 mathematical calculations, and user interface design. Whether you're looking to build a tool for personal use or
 contribute to the utility of others, "Calculator" allows you to explore the world of GUI development while creating a
 powerful calculator application that caters to various calculation needs.
+
+<br />
 
 ## Social Media
 
