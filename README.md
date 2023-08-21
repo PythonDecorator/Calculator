@@ -34,7 +34,7 @@ calculations or a more advanced calculator for scientific purposes, Calculator o
 ![Calculator Demo.gif](demo%2FCalculator%20Demo.gif)
 
 - **Download the One file .exe file from the dist folder**
-- **You don't need to install anything, just download, click and start playing.**
+- **You don't need to install anything, download and start calculating.**
 
 <br />
 
@@ -59,7 +59,7 @@ calculations or a more advanced calculator for scientific purposes, Calculator o
 
 ## Documentation
 
-This game was built based on the customtkinter documentation
+This calculator was built based on the customtkinter documentation
 
 <br />
 
@@ -112,7 +112,7 @@ GitHub Issues is the official bug tracker for this project.
 
 ## Technical Support or Questions
 
-If you have questions contact me okpeamos.ao@gmail.com instead of opening an issue.
+If you have questions contact me `okpeamos.ao@gmail.com`
 
 Make sure that you are using the latest version of the project. Check the CHANGELOG
 Provide reproducible steps for the issue will shorten the time it takes for it to be fixed.
